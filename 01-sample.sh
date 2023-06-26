@@ -1,5 +1,5 @@
 ls -l
 
-yum list install
-
 uname -a
+
+yum list install
